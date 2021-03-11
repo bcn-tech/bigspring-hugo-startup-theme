@@ -71,9 +71,9 @@ name = "FAQ"
 url = "faq"
 weight = 4
 [params]
-author = "Themefisher"
+author = "BCN Technologi"
 contact_form_action = "#"
-description = "This is meta description"
+description = "BCN Technologi is 360 Technology solutions in Indonesia"
 logo = "images/logo.png"
 logo_width = "200px"
 [params.navigation_button]
